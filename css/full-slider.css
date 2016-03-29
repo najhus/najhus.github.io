@@ -19,11 +19,6 @@ body {
     height: 100%;
 }
 
-.carousel .img-responsive {
-  width:100%;
-}
-
-
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
