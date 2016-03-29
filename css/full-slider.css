@@ -14,7 +14,9 @@ body {
 .active {
     height: 100%;
 }
-
+.carousel .img-responsive {
+  width:100%;
+}
 .carousel-inner {
     height: 100%;
 }
